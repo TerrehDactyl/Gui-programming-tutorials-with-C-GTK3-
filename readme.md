@@ -1,6 +1,7 @@
 The code snippets in this repository are all tutorials for C programming using the GTK3.0 library.
-All of the code is compiled using gcc inputfilename.c -o outputfilename `pkg-config --cflags --libs gtk+-3.0`
 -
+All of the code is compiled using gcc inputfilename.c -o outputfilename `pkg-config --cflags --libs gtk+-3.0`
+
 What do I hope to accomplish?
 -
 I want new programmers to be able to easily create their own GUI applications. When learning this myself I felt that 
