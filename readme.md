@@ -7,3 +7,6 @@ I want new programmers to be able to easily create their own GUI applications. W
 the content available for C programming using the GTK3.0 library was very lacking, as such, I feel that if I can help even
 1 person to understand this material a little better, then my time has been compensated for.
 
+One thing to note
+-
+all methods outlined in these tutorials are manual methods. I will upload future tutorials on using the GTKBuilder method.
