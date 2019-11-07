@@ -1,0 +1,11 @@
+.window_style {
+    background: rgba(40, 40, 40, 40);
+    font-family: Times New Roman;
+    color:white;
+}
+
+.window_style:active{
+    background-color: rgba(255, 255, 255, 255);
+    color:black;
+    font-family: Times New Roman;
+}
