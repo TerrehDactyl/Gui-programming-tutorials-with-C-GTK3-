@@ -1,7 +1,7 @@
-#include <gtk/gtk.h>
+#include <gtk/gtk.h>																			//compile with gcc -Wall -g window.c -o window `pkg-config --cflags --libs gtk+-3.0`
+void callback(void);   //user function declaration  
 
-																				//compile with gcc -Wall -g window.c -o window `pkg-config --cflags --libs gtk+-3.0`
-void callback(void);                                                            //user function declaration  
+
 int main(int argc, char *argv[])
 {
 	GtkWidget *window;															//this declares windows as type GtkWidget*
